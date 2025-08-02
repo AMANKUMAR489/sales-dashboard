@@ -39,5 +39,6 @@
   https://github.com/AMANKUMAR489/sales-dashboard/blob/main/snapshot%20of%20sales%20report%20dashboard.png
   
 # Download dashboard
+  https://github.com/AMANKUMAR489/sales-dashboard/blob/main/Sales%20report.pbit
   
   
